@@ -715,7 +715,7 @@ This structure makes the repository easier to maintain and extend.
 ## 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/KrutinBhat/CodeAlpha_Sales_Prediction_Analysis>
 ```
 
 Navigate into the project:
